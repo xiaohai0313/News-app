@@ -10,8 +10,8 @@
 
 ## Back-end server
 
-- Use the cloud backend code in node.js for all calls to Guardian News / New York Times API.
-- The cloud backend code receives JSON from API and returns it to the client, possibly filtered and modified (see below)
+- Use the cloud backend code in node.js for all calls to Guardian News / New York Times API
+- The cloud backend code receives JSON from API and returns it to the client
 - The cloud back end is a "proxy"
 
 ## Demo Screenshot:
