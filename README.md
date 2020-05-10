@@ -16,18 +16,18 @@
 
 ## Demo Screenshot:
 
-Home page:
+##### Home page:
 
 ![home](https://github.com/xiaohai0313/News-app/blob/master/screenshot/page1.png)
 
-Bookmark:
+##### Bookmark:
 
 ![bookmark](https://github.com/xiaohai0313/News-app/blob/master/screenshot/page1.png)
 
-Mobile bookmark:
+##### Mobile bookmark:
 
 ![mbookmark](https://github.com/xiaohai0313/News-app/blob/master/screenshot/cell1.png)
 
-Mobile detail:
+##### Mobile detail:
 
 ![mdetail](https://github.com/xiaohai0313/News-app/blob/master/screenshot/cell2.png)
