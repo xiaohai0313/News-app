@@ -4,7 +4,7 @@
 ## Front-end client
 
 - Use a combination of HTML5, React-Bootstrap, and React.js (class / state component) to build resposive web page
-- No hardcode style, responsive UI fully depend on bootstrap column and navigation model
+- No hardcode style, responsive UI fully depend on bootstrap column and navigation module
 - Use localStorage maintain bookmark news
 - Practice parent / child component mutual communication method
 
